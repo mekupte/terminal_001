@@ -1,11 +1,11 @@
 #include <stdio.h>
-/* Öncelikle temel fonksiyonları kullanmak için kütüphanemizi ekleyelim. Bu fonskiyonlar temel girdi
-çıktı işlemleri için gerekli olacak. */
+/*First, let's add our library to use basic functions.
+These functions will be required for basic input-output operations.*/
 
-/* Kullanacağımız değişkenleri tanımlayalım. */
+/* Let's define the variables we will use. */
 int aySayisi, tavsanCiftiSayisi;
-/* Girilen ay değerine karşılık kaç tavşan çifti olduğunu özyineleme (recursion) ile hesaplayacağımız bir
-fonksiyon tanımlayalım. */
+/* Let's define a function where we will calculate 
+how many rabbit pairs there are for the entered month value with recursive. */
 int fibonacci(int aySayisi){
     /* Eğer aySayisi 1 veya 2 ise direkt olarak 1 sayısını döndürelim. */
     if (aySayisi == 1 || aySayisi == 2)
