@@ -1,2 +1,2 @@
-# terminal_001
-Fibonanacci Sequence 
+# terminal_001: Fibonanacci Sequence 
+We produce contents on the common ground of mathematics. In this week's article, we examined the Fibonacci sequence obtained by the famous mathematician Fibonacci by modeling a hypothetical rabbit population by encoding it in C, Python, and MATLAB. You can access the wide range of content from our Authorea profile. Do not forget to follow us on social media! If you have any suggestions, please contact us.
